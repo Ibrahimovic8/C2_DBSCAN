@@ -1,5 +1,6 @@
 # C2_DBSCAN
- The C2_DBSCAN introduction can be seen in C2_manual.doc
+ The C2_DBSCAN's introduction can be seen in C2_manual.doc
+ 
 ***********************************************************************************
  The C2_DBSCAN program was compiled under Windows using c++ with CodeBlocks 10.05.
 *********************************************************************************** 
