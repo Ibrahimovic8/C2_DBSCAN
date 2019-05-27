@@ -1,4 +1,5 @@
 # C2_DBSCAN
+ The C2_DBSCAN introduction can be seen in C2_manual.doc
 ***********************************************************************************
  The C2_DBSCAN program was compiled under Windows using c++ with CodeBlocks 10.05.
 *********************************************************************************** 
@@ -46,6 +47,7 @@ Attention:If you want more information about compilering FLANN, you can visit 		
 Step2:
 - Download CodeBlocks in http://www.codeblocks.org/
 - Download TDM-GCC-32 in http://tdm-gcc.tdragon.net/download/   
+- Dowanload dataset in https://pan.baidu.com/s/1cui6Dd-nB3oc9H8nxuhbqg
 
 Step3:
 - Open CodeBlock: choose “setting” ->”compiler and debugger”->”ToolChain executables”,and set the parameters like the “Figure 2” shows:
